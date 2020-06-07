@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-   <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/app.png?raw=true" width="200"></a>
-   <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/front.png?raw=true" width="200"></a>
-    <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/back.png?raw=true" width="200"></a>
-  <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/api.png?raw=true" width="200"></a>
+   <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/app.png?raw=true" width="100"></a>
+   <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/front.png?raw=true" width="100"></a>
+    <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/back.png?raw=true" width="100"></a>
+  <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/api.png?raw=true" width="100"></a>
 </p>
 
 <p align="center">
