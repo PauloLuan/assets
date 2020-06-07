@@ -70,16 +70,13 @@ $ npm start
 
 <p align="center">
   <a href="http://bit.ly/reativa-insta">
-    <img src="https://github.com/pauloluan/assets/blob/master/insta.png" width="50"/>
-    Follow me on Instagram
+    <img src="https://github.com/pauloluan/assets/blob/master/insta.png" width="50"  alt="Follow me on Instagram" />
   </a>
   <a href="https://bit.ly/pauloluan/">
-    <img src="https://github.com/pauloluan/assets/blob/master/linkedin.png?raw=true" width="50">
-    Follow me on Linkedin
+    <img src="https://github.com/pauloluan/assets/blob/master/linkedin.png?raw=true" width="50" alt="Follow me on Linkedin" />
   </a>
   <a href="https://github.com/pauloluan">
-    <img src="https://github.com/pauloluan/assets/blob/master/github.png?raw=true" width="50">
-    Follow me on Github
+    <img src="https://github.com/pauloluan/assets/blob/master/github.png?raw=true" width="50"  alt="Follow me on Github" />
   </a>
 </p>
 
