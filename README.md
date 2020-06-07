@@ -66,14 +66,20 @@ $ npm start
 
 > Check in **production** at PLACE_HOLDER
 
-## 👤 Authors
+## 👤 Author
 
 <p align="center">
+  <a href="http://bit.ly/reativa-insta">
+    <img src="https://github.com/pauloluan/assets/blob/master/insta.png" width="50"/>
+    Follow me on Instagram
+  </a>
   <a href="https://bit.ly/pauloluan/">
     <img src="https://github.com/pauloluan/assets/blob/master/linkedin.png?raw=true" width="50">
+    Follow me on Linkedin
   </a>
   <a href="https://github.com/pauloluan">
     <img src="https://github.com/pauloluan/assets/blob/master/github.png?raw=true" width="50">
+    Follow me on Github
   </a>
 </p>
 
@@ -86,9 +92,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 [🔝 back to top](#top)
-
-<p align="center">
-  <a href="http://bit.ly/reativa-insta">
-    <img src="https://github.com/pauloluan/assets/blob/master/insta.png" width="50"/>
-  </a>
-</p>
