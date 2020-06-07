@@ -57,10 +57,10 @@ $ npm start
 
 <p align="center">
   <a href="https://bit.ly/pauloluan/">
-    <img src="https://github.com/pauloluan/assets/blob/master/linkedin.png?raw=true" width="100">
+    <img src="https://github.com/pauloluan/assets/blob/master/linkedin.png?raw=true" width="50">
   </a>
   <a href="https://github.com/pauloluan">
-    <img src="https://github.com/pauloluan/assets/blob/master/github.png?raw=true" width="100">
+    <img src="https://github.com/pauloluan/assets/blob/master/github.png?raw=true" width="50">
   </a>
 </p>
 
@@ -76,6 +76,6 @@ Give a ⭐️ if this project helped you!
 
 <p align="center">
   <a href="http://bit.ly/reativa-insta">
-    <img src="https://github.com/pauloluan/assets/blob/master/insta.png" width="100"/>
+    <img src="https://github.com/pauloluan/assets/blob/master/insta.png" width="50"/>
   </a>
 </p>
